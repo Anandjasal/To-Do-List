@@ -108,11 +108,10 @@ Hello, I'm Rohit Sharma, a web developer with 3 years of experience in the field
 - Node.js
 ## Feedback
 
-If you have any feedback, please reach out to me at 28rohitsharmait@gmail.com
+If you have any feedback, please reach out to me at anandjasal3636@gmail.com
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mgwaaxiynjbsesiu3byn2a.on.drv.tw/Rohit's_Portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitsharma2003/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-jasal-aa6836208/)
 
 
