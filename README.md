@@ -88,24 +88,20 @@ Some Resources:-
 
 Contributions are always welcome!
 
-This project was created by **Rohit Sharma** . If you have any feedback or suggestions, please contact me at **28rohitsharmait@gmail.com** .
+This project was created by **Rohit Sharma** . If you have any feedback or suggestions, please contact me at **anandjasal3636@gmail.com
+** .
 
 
 ## 🚀 About Me
-Hello, I'm Rohit Sharma, a web developer with 3 years of experience in the field. I'm passionate about building web applications and creating user-friendly interfaces that make people's lives easier. My main areas of expertise include front-end and web design.
+Hello, I'm Anand Jasal, a web developer with 3 years of experience in the field. I'm passionate about building web applications and creating user-friendly interfaces that make people's lives easier. My main areas of expertise include front-end and web design.
 
 ## Skills
 - C++ Programing
-- C Programing
-- Java
 - Problme Solving
 - Object Oriented Programing
 - HTML
 - CSS
-- CSS Tailwind
 - JavaScript
-- React
-- Node.js
 ## Feedback
 
 If you have any feedback, please reach out to me at anandjasal3636@gmail.com
