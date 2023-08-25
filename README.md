@@ -88,7 +88,7 @@ Some Resources:-
 
 Contributions are always welcome!
 
-This project was created by **Rohit Sharma** . If you have any feedback or suggestions, please contact me at **anandjasal3636@gmail.com
+This project was created by **Anand Jasal** . If you have any feedback or suggestions, please contact me at **anandjasal3636@gmail.com
 ** .
 
 
