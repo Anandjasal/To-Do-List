@@ -7,7 +7,7 @@ This is a simple to-do list project that allows users to add, update, and delete
 
 Check out the Demo video to see it in action and let me know what you think! 🤔
 
-Demo Link :- https://drive.google.com/file/d/1SZUrZ3isZIQhKxHUhZhRlcCgH5rgS0fg/view?usp=share_link
+Demo Link :- 
 
 ## Features
 
